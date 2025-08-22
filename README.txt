@@ -1,4 +1,4 @@
-# Name: Edger Alexander Bautista Serrano
+# Name: Edgar Alexander Bautista Serrano
 
 ## Introduction
 It is a java application that parses and manipulates graphs.
